@@ -1,5 +1,5 @@
 # Automatic Irrigation System based on soil texture and Farm Securtiy
-This is an Arduino Uno project used to automatically supply water based on soil texture and geolocation. It comprises five main components namely Arduino Uno, relay, alarm, PIR sensor and GSM module and to connect the parts or modules. The arudino sketch is written in the arduino language which comprises of c/c++ like functions. The water supply module is made available using a combination of sensors and a motor. The circuit diagram for this project is as follows:
+This is an Arduino Uno project used to automatically supply water based on soil texture and geolocation. It comprises five main components namely Arduino Uno, relay, alarm, PIR sensor and GSM module. The arudino sketch is written in the arduino language which comprises of C/C++ like functions. The water supply module is made available using a combination of sensors and a motor. The circuit diagram for this project is as follows:
 
 ![circuit diagram](https://github.com/rutvik5/soil-texture-automatic-irrigation/blob/master/images/circuit%20diagram.jpg)
 
